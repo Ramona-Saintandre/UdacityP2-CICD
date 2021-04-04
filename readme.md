@@ -1,7 +1,6 @@
 [![Python application](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml)
 
 
-
 # Udacity Project 2 - Building a CI/CD Pipeline
 
 This project, we were tasked to build a Flask app from this Github repository from scratch.
