@@ -41,9 +41,10 @@ git clone <paste_your_link>.git
 
 ![RepoClone](Projectimages/Gitclone.png)  
 Only the first time you need to clone the repository. If you need to update it manually you should use the ``` git pull ``` command.
-```
 
-#### 3. Setup the project and start the Continous Intergration
+
+
+### 3. Setup the project and start the Continous Intergration
 
 **Setup Azure Cloud Shell**
 * Login to Azure shell - `az login`  
@@ -56,9 +57,9 @@ Only the first time you need to clone the repository. If you need to update it m
         
 In your shell you should see the file where the key is stored. Display the key and copy it.
 ```
-cat your-keyfile-path
+cat <your-keyfile-path>
 ```
-![SSH-Key](SSH-keygen.png)
+![SSH-Key](Projectimages/SSH-keygen.png)
  
 > [!NOTE]
 > <font color=#FF0000>Now, use [GitHub Settings -> SSH and PGP keys](https://github.com/settings/keys) and click "New SSH key"</font>
@@ -69,7 +70,7 @@ This will allow you to access your GitHub repositories from your Azure Cloud She
 
 * Now you need to Create a virtual environment: run the `make setup`  
  Or 
- ```bash
+ ```bash  
 python3 -m venv ~/UdacityP2-CICD/VENV
 source ~/UdacityP2-CICD/VENV/bin/activate
 ```
