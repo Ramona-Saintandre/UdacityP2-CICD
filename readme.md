@@ -1,4 +1,4 @@
-[![Python application Github Action](https://github.com/Ramona-Saintandre/UdacityP2-CI_CD/actions/workflows/python-app.yml/badge.svg)](https://github.com/Ramona-Saintandre/UdacityP2-CI_CD/actions/workflows/python-app.yml)  
+[![Python application Github](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/main1.yml/badge.svg)](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/main1.yml)  
 
 
 
