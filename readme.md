@@ -1,5 +1,4 @@
-[![Python application Github](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/main1.yml/badge.svg)](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/main1.yml)  
-
+[![Python application](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml)
 
 
 
@@ -167,7 +166,7 @@ You can also click on the build stage or deploy app to get detailed status.
 
 ![Project running on Azure App Service](Projectimages/AzureUP.png)
 
-![Passing GitHub Actions testing](Projectimages/successful%20gitbuild.png)
+![Passing GitHub Actions testing](Projectimages/successful+gitbuild.png)
 
 ![Passing tests that are displayed after running the `make all` command from the `Makefile`](Projectimages/linttest.png)
 
@@ -179,7 +178,7 @@ You can also click on the build stage or deploy app to get detailed status.
 2. verify locust is installed - locust --help   
 3. Then write `locust - f <file name> locust.py`  
 4. Open the browser to localhost:8089    
-![Load test using Locust](Projectimages/Locust%20Test.png)
+![Load test using Locust](Projectimages/Locust+Test.png)
 ![Locust Graph](Projectimages/LocustGraph.png)
 ![Locust CLI](Projectimages/LocusttestCli.png)
 
@@ -197,12 +196,12 @@ By creating a Kubernetes version of this project.
 3. Create another version of the project where you replace the Azure Pipelines Continuous Delivery step with Github Actions. Document the pros and cons of both approaches.
 4. Make the GUI output more better.  
    
-   ![GUI](Projectimages/GUI%20interface.png)
+   ![GUI](Projectimages/GUI+interface.png)
 ## Project Documentation
 **Project Board**  
 
 * [**Trello board for the project**](https://trello.com/b/uyi4JKGr/azure-devops-project-building-a-ci-cd-pipeline)
-![Trello Board](Trello%20Board.png)  
+![Trello Board](Trello+Board.png)  
 > [!NOTE]
  I also created a Azure board for this project
  ![AZboard](Projectimages/Azureboard.png)  
