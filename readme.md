@@ -120,7 +120,7 @@ Run a test to verify it.
 ```
 ./make_predict_azure_app.sh
 ```
-![Prediction](Projectimages/successfulPrediction.png) ![AZprediction](Projectimages/SuccessfulPredictAZ.png)
+![Prediction](Projectimages/successfulPrediction.png) ![Azure prediction](Projectimages/SuccessfulPredictAZ.png)
 
 ##### 4. Configure Azure pipelines
 
@@ -201,14 +201,17 @@ By creating a Kubernetes version of this project.
 ## Project Documentation
 **Project Board**  
 
-* [**Trello board for the project**](https://trello.com/b/uyi4JKGr/azure-devops-project-building-a-ci-cd-pipeline)
-![Trello Board](Trello+Board.png)  
-> [!NOTE]
+* [**Trello board for the project**](https://trello.com/b/vl5R1Znm/udacity-p2-ci-cd-plan)
+* 
+![Trello Board](Trello+Board.png)
+  
+> [!NOTE]> 
  I also created a Azure board for this project
+
  ![Azure board](Projectimages/AzureBoard.png)
 
  **Project Plan**
-* [**Spreadsheet that includes the original and final project plan**](https://docs.google.com/spreadsheets/d/1W36bsmXI8AUw3Ha9NQisR_4d586ZbRakH-Xi4wrnGhY/edit#gid=1348135932) 
+* [**Spreadsheet that includes the original and final project plan**](https://docs.google.com/spreadsheets/d/1W36bsmXI8AUw3Ha9NQisR_4d586ZbRakH-Xi4wrnGhY/edit?usp=sharing) 
 
 ## Demo 
 * [Project Demo](https://youtu.be/tUecvmp32l0)
