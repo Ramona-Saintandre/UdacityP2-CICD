@@ -211,4 +211,4 @@ By creating a Kubernetes version of this project.
 * [**Spreadsheet that includes the original and final project plan**](https://docs.google.com/spreadsheets/d/1W36bsmXI8AUw3Ha9NQisR_4d586ZbRakH-Xi4wrnGhY/edit#gid=1348135932) 
 
 ## Demo 
-* .[Video walkthrough](https://youtu.be/tUecvmp32l0)
+* [Project Demo](https://youtu.be/tUecvmp32l0)
