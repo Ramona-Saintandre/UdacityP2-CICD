@@ -197,7 +197,7 @@ By creating a Kubernetes version of this project.
 3. Create another version of the project where you replace the Azure Pipelines Continuous Delivery step with Github Actions. Document the pros and cons of both approaches.
 4. Make the GUI output more better.  
    
-   ![GUI](Projectimages/GUI+interface.png)
+   ![GUI](Projectimages/GUIinterface.png)
 ## Project Documentation
 **Project Board**    
 
@@ -208,7 +208,7 @@ By creating a Kubernetes version of this project.
 > [!NOTE]>   
  I also created a Azure board for this project  
 
- ![Azure board](Projectimages/AzureBoard.png) 
+ ![Azure board](Projectimages/azure%20board.png)
 
  **Project Plan**  
 * [**Spreadsheet that includes the original and final project plan**](https://docs.google.com/spreadsheets/d/1W36bsmXI8AUw3Ha9NQisR_4d586ZbRakH-Xi4wrnGhY/edit?usp=sharing)   
