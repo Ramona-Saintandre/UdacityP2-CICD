@@ -208,7 +208,7 @@ By creating a Kubernetes version of this project.
 > [!NOTE]>   
  I also created a Azure board for this project  
 
- ![Azure board](Projectimages/azureBoard.jpg)
+![Azure Board](Projectimages/azureBoard.jpg)
 
  **Project Plan**  
 * [**Spreadsheet that includes the original and final project plan**](https://docs.google.com/spreadsheets/d/1W36bsmXI8AUw3Ha9NQisR_4d586ZbRakH-Xi4wrnGhY/edit?usp=sharing)   
