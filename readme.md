@@ -11,7 +11,7 @@ I used Github Actions along with a Makefile, requirements.txt and application co
 
 Then I  integrated this project into Azure Pipelines in order to enable Continuous Delivery to Azure Web App Service.
 
-![Project Architecture](Projectimages/architectural-diagram2.png)
+![Project Architecture](Projectimages/azure-devops-project2-architecture.png)
  
 
 ## Instructions to recreate this project
