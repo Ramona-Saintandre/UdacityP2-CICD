@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 [![Python application](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml) 
 
 
-=======
-[![Python application](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml)
->>>>>>> 54a09f998dd5298503ef81a1d6a1f9864d8c682d
 
 
 # Udacity Project 2 - Building a CI/CD Pipeline
@@ -96,19 +92,19 @@ To create an Gitub Action from scratch, all you have to do is to:
 * Click "Setup this workflow" under "Python application"
 * Replace the file contents with the contents of the .github/workflows/python-app.yml file
 * Click "Start commit"
-##### 4 
+##### 4. 
 Create the App Service and initially deply the app in the Azure Cloud Shell. 
 This step can be done in the portal. 
 
 `az webapp up --sku S1 -n UdacityP2-CICD`
-You can verify that the app is working by navigating to the deployed URL. 
+You can verify that the app is working by navigating to the deployed URL.   
 Go to `https://<appname>.azurewebsites.net.` 
 It should look like this:
 ![websiteImage](Projectimages/GUI%20interface.png)
 
 ##### 5 Run the ML app
 
-Go to your cloned repository and run the commannds.sh file.
+Go to your cloned repository and run the commannds.sh file.  
 Before running the file, replace `UdacityP2-CICD` with your project name in the following files:
 * commands.sh
 * test_predict_azure_app.sh, if you want to make a prediction using the Azure Cloud Shell.
@@ -177,7 +173,7 @@ You can also click on the build stage or deploy app to get detailed status.
 
 ![Output of streamed log files from deployed application](Projectimages/Logs.png)
 
-**Locust Test**
+**Locust Test**  
 ***To run the locust test**
 1. Pip install locust   
 2. verify locust is installed - locust --help   
@@ -215,4 +211,4 @@ By creating a Kubernetes version of this project.
 * [**Spreadsheet that includes the original and final project plan**](https://docs.google.com/spreadsheets/d/1W36bsmXI8AUw3Ha9NQisR_4d586ZbRakH-Xi4wrnGhY/edit#gid=1348135932) 
 
 ## Demo 
-* [![Video walkthrough](https://youtu.be/tUecvmp32l0)
+* .[Video walkthrough].(https://youtu.be/tUecvmp32l0)
