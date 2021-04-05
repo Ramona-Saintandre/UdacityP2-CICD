@@ -199,19 +199,19 @@ By creating a Kubernetes version of this project.
    
    ![GUI](Projectimages/GUI+interface.png)
 ## Project Documentation
-**Project Board**  
+**Project Board**    
 
-* [**Trello board for the project**](https://trello.com/b/vl5R1Znm/udacity-p2-ci-cd-plan)
+* [**Trello board for the project**](https://trello.com/b/vl5R1Znm/udacity-p2-ci-cd-plan)  
 * 
-![Trello Board](Trello+Board.png)
-  
-> [!NOTE]> 
- I also created a Azure board for this project
+![Trello Board](Trello+Board.png)  
 
- ![Azure board](Projectimages/AzureBoard.png)
+> [!NOTE]>   
+ I also created a Azure board for this project  
 
- **Project Plan**
-* [**Spreadsheet that includes the original and final project plan**](https://docs.google.com/spreadsheets/d/1W36bsmXI8AUw3Ha9NQisR_4d586ZbRakH-Xi4wrnGhY/edit?usp=sharing) 
+ ![Azure board](Projectimages/AzureBoard.png)  
+
+ **Project Plan**  
+* [**Spreadsheet that includes the original and final project plan**](https://docs.google.com/spreadsheets/d/1W36bsmXI8AUw3Ha9NQisR_4d586ZbRakH-Xi4wrnGhY/edit?usp=sharing)   
 
 ## Demo 
 * [Project Demo](https://youtu.be/tUecvmp32l0)
