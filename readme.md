@@ -205,10 +205,10 @@ By creating a Kubernetes version of this project.
   
 ![Trello Board](Projectimages/Trello%20Board.png)
 
-> [!NOTE]>   
- I also created a Azure board for this project  
+> [!NOTE]>     
+ I also created a Azure board for this project    
 
-![Azure Board](Projectimages/azureBoard.jpg)
+:::image type="content" source="Projectimages/azureBoard.jpg" alt-text="![Azure Board](Projectimages/azureBoard.jpg)":::   
 
  **Project Plan**  
 * [**Spreadsheet that includes the original and final project plan**](https://docs.google.com/spreadsheets/d/1W36bsmXI8AUw3Ha9NQisR_4d586ZbRakH-Xi4wrnGhY/edit?usp=sharing)   
