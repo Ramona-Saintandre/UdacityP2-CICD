@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 [![Python application](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml) 
 
 
+=======
+[![Python application](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml)
+>>>>>>> 54a09f998dd5298503ef81a1d6a1f9864d8c682d
 
 
 # Udacity Project 2 - Building a CI/CD Pipeline
@@ -167,7 +171,7 @@ You can also click on the build stage or deploy app to get detailed status.
 
 ![Project running on Azure App Service](Projectimages/AzureUP.png)
 
-![Passing GitHub Actions testing](Projectimages/successful%20gitbuild.png)
+![Passing GitHub Actions testing](Projectimages/successful+gitbuild.png)
 
 ![Passing tests that are displayed after running the `make all` command from the `Makefile`](Projectimages/linttest.png)
 
@@ -179,7 +183,7 @@ You can also click on the build stage or deploy app to get detailed status.
 2. verify locust is installed - locust --help   
 3. Then write `locust - f <file name> locust.py`  
 4. Open the browser to localhost:8089    
-![Load test using Locust](Projectimages/Locust%20Test.png)
+![Load test using Locust](Projectimages/Locust+Test.png)
 ![Locust Graph](Projectimages/LocustGraph.png)
 ![Locust CLI](Projectimages/LocusttestCli.png)
 
@@ -197,12 +201,12 @@ By creating a Kubernetes version of this project.
 3. Create another version of the project where you replace the Azure Pipelines Continuous Delivery step with Github Actions. Document the pros and cons of both approaches.
 4. Make the GUI output more better.  
    
-   ![GUI](Projectimages/GUI%20interface.png)
+   ![GUI](Projectimages/GUI+interface.png)
 ## Project Documentation
 **Project Board**  
 
 * [**Trello board for the project**](https://trello.com/b/uyi4JKGr/azure-devops-project-building-a-ci-cd-pipeline)
-![Trello Board](Projectimages/Trello%20Board.png)  
+![Trello Board](Trello+Board.png)  
 > [!NOTE]
  I also created a Azure board for this project
  ![Azure board](Projectimages/AzureBoard.png)
@@ -211,4 +215,4 @@ By creating a Kubernetes version of this project.
 * [**Spreadsheet that includes the original and final project plan**](https://docs.google.com/spreadsheets/d/1W36bsmXI8AUw3Ha9NQisR_4d586ZbRakH-Xi4wrnGhY/edit#gid=1348135932) 
 
 ## Demo 
-* [![Video walkthrough]
+* [![Video walkthrough](https://youtu.be/tUecvmp32l0)
