@@ -202,13 +202,13 @@ By creating a Kubernetes version of this project.
 **Project Board**    
 
 * [**Trello board for the project**](https://trello.com/b/vl5R1Znm/udacity-p2-ci-cd-plan)  
-* 
-![Trello Board](Trello+Board.png)  
+  
+![Trello Board](Projectimages/Trello%20Board.png)
 
 > [!NOTE]>   
  I also created a Azure board for this project  
 
- ![Azure board](Projectimages/AzureBoard.png)  
+ ![Azure board](Projectimages/AzureBoard.png) 
 
  **Project Plan**  
 * [**Spreadsheet that includes the original and final project plan**](https://docs.google.com/spreadsheets/d/1W36bsmXI8AUw3Ha9NQisR_4d586ZbRakH-Xi4wrnGhY/edit?usp=sharing)   
