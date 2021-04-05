@@ -1,4 +1,4 @@
-[![Python application Github](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/main1.yml/badge.svg)](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/main1.yml)  
+[![Python application](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/Ramona-Saintandre/UdacityP2-CICD/actions/workflows/pythonapp.yml) 
 
 
 
@@ -98,9 +98,9 @@ This step can be done in the portal.
 
 `az webapp up --sku S1 -n UdacityP2-CICD`
 You can verify that the app is working by navigating to the deployed URL. 
-Go to `https://<appname>.azurewebsites.net. 
+Go to `https://<appname>.azurewebsites.net.` 
 It should look like this:
-![websiteImage]()
+![websiteImage](Projectimages/GUI%20interface.png)
 
 ##### 5 Run the ML app
 
@@ -202,10 +202,10 @@ By creating a Kubernetes version of this project.
 **Project Board**  
 
 * [**Trello board for the project**](https://trello.com/b/uyi4JKGr/azure-devops-project-building-a-ci-cd-pipeline)
-![Trello Board](Trello%20Board.png)  
+![Trello Board](Projectimages/Trello%20Board.png)  
 > [!NOTE]
  I also created a Azure board for this project
- ![AZboard](Projectimages/Azureboard.png)  
+ ![Azure board](Projectimages/AzureBoard.png)
 
  **Project Plan**
 * [**Spreadsheet that includes the original and final project plan**](https://docs.google.com/spreadsheets/d/1W36bsmXI8AUw3Ha9NQisR_4d586ZbRakH-Xi4wrnGhY/edit#gid=1348135932) 
