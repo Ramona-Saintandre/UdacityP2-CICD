@@ -9,7 +9,9 @@ This project, we were tasked to build a Flask app from this Github repository fr
  This was done by using Continuous Integration and Continuous Delivery.  
 I used Github Actions along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install cycle.
 
-Then I  integrated this project into Azure Pipelines in order to enable Continuous Delivery to Azure Web App Service.
+Then I  integrated this project into Azure Pipelines in order to enable Continuous Delivery to Azure Web App Service.  
+The following starter code was provide by Udacity for this project:
+[Azure-Cloud-DevOps-Starter-Code](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code)  
 
 ![Project Architecture](Projectimages/azure-devops-project2-architecture.png)
  
