@@ -1,5 +1,5 @@
 
-## Creating a virtual enviorment in Azure
+## Creating a virtual enviorment in Azure adding a note for demo 
 
 [Creating a Python virtual environment with Pipenv and Visual Studio Code](https://www.youtube.com/watch?v=mVzqOhdVJkc)
 [Python & VS Code Virtual Environments Windows 10](https://www.youtube.com/watch?v=fBBAGXjg2fk&t=371s)
